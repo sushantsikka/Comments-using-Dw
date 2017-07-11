@@ -2,7 +2,7 @@
 
 ##### This article explains how to create a web application for user comments using PHP.
 
-Adobe Dreamweaver is a web development IDE by Adobe Systems. It is available for macOS and Windows.
+Adobe Dreamweaver is a web development IDE by Adobe Systems. It is available for macOS and Windows. I wrote this article to illustrate how Adobe Dw can be used to quickly and efficiently develop web apps and its support for PHP. Read this to learn how to setup a PHP development environment http://www.adobe.com/devnet/archive/dreamweaver/articles/setup_php.html.
 
 ----
 
